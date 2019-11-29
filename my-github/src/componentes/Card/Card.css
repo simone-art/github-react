@@ -1,0 +1,26 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img-card {
+    width: 30%;
+    height: 30%;
+}
+
+.nome {
+    width: 25%;
+    height: 25%;
+    align-items: center;
+    font-size: 15px;
+    border: 1px solid black;
+}
+
+.login {
+    width: 25%;
+    height: 25%;
+    font-size: 15px;
+    border: 1px solid black;
+}
